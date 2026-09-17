@@ -1,0 +1,6 @@
+{
+  "name": "UjianSebisa",
+  "description": "Portal ujian digital berbasis web yang dilengkapi dengan fitur anti-kecurangan, terintegrasi dengan Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
